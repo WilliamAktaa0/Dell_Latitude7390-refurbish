@@ -11,5 +11,5 @@ New Battery
 ## Battery Replacement:
 The initial battery that came with this was severly degraded with a full charge capacity of only 15,139mWH / 60,002mWH, so I'm going to replace it with a new 60,002mWH battery.
 
-It's a fairly easy replacement with a It's a fairly easy replacement with a [short guide by Dell](https://www.dell.com/support/contents/en-lb/videos/videoplayer/how-to-remove-the-battery-on-latitude-7390/6152436600001)
+It's a fairly easy replacement with a <a href="https://www.dell.com/support/contents/en-lb/videos/videoplayer/how-to-remove-the-battery-on-latitude-7390/6152436600001" target="_blank" rel="noopener noreferrer">short guide by Dell</a>
 
