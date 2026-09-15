@@ -1,1 +1,1 @@
-# Dell_Latitude7390-refurbish
+# Refurbishing the Dell Latitude 7390 
